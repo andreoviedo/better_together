@@ -1,16 +1,14 @@
 # Replication files for "Better Together? Estimating the Effect of Multiple Borrowers on Mortgage Default Risk Using Double Machine Learning"
 
+Author: Andre Oviedo Mendoza, CFA
+
 ## Introduction
 
-This final project write-up investigates the effect of multiple bor-
-rowers on mortgage default risk using double machine learning. By using this approach,
-we can account for complex relationships between variables while producing consistent
-and asymptotically normal estimates of treatment effects. We find that having multi-
-ple borrowers at origination is associated with a lower probability of default of around
--1.6 percentage points. This is consistent with the findings of previous research that
-suggests that multiple borrowers can create a collective risk mitigation mechanism that
-enhances overall loan repayment probability. This result is robust to different models
-and control variables.
+This final project write-up investigates the effect of multiple borrowers on mortgage default risk using double machine learning. 
+By using this approach, we can account for complex relationships between variables while producing consistent and asymptotically normal estimates of treatment effects. We find that having multi-
+ple borrowers at origination is associated with a lower probability of default of around -1.6 percentage points. 
+This is consistent with the findings of previous research that suggests that multiple borrowers can create a collective risk mitigation mechanism that enhances overall loan repayment probability. 
+This result is robust to different models and control variables.
 
 ## Data
 
